@@ -16,5 +16,5 @@ $ main [HfmZip|unHfmZip] filename.txt filename.hfmzip
 ## winows
 *推荐使用powershell*
 ```
-> .\main [HfmZip|unHfmZip] filename.txt filename.hfmzip 
+> .\main.exe [HfmZip|unHfmZip] filename.txt filename.hfmzip 
 ```
