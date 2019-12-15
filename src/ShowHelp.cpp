@@ -7,11 +7,11 @@
 #include<stack>
 using namespace std;
 
-//Èç¹ûÊäÈë´íÎó£¬Õ¹Ê¾±¨´íĞÅÏ¢
+//å¦‚æœè¾“å…¥é”™è¯¯ï¼Œå±•ç¤ºæŠ¥é”™ä¿¡æ¯
 int ShowHelp()
 {
-    cout << "This is a [HfmZip|unHfmZip] project" << endl;
-    cout << "you can use \"[HfmZip|unHfmZip] filename.txt filename.hfmzip \" to use this project!" << endl;
+    cout << "This is a [Zip|unZip] project" << endl;
+    cout << "you can use \"[Zip|unZip] filename.txt filename.hfmzip \" to use this project!" << endl;
     cout << "use HfmZip -> zip sourcefile to destfile" << endl;
     cout << "use unHfmZip -> extract sourcefile to destfile." << endl;
     return 0;
