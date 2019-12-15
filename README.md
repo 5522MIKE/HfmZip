@@ -2,7 +2,6 @@
 
 *一个越压越大的压缩软件*
 *来自我真的不想做UI的数据结构大作业*
-**估计最后我还是会做的**
 
 ## 编译
 已经提供**Makefile**文件
@@ -18,3 +17,7 @@ $ main [HfmZip|unHfmZip] filename.txt filename.hfmzip
 ```
 > .\main [HfmZip|unHfmZip] filename.txt filename.hfmzip 
 ```
+
+// TO DO
++ 未编写UI界面
++ 未编写同名文件出现的情况
