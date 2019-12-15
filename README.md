@@ -15,11 +15,12 @@ $ main [HfmZip|unHfmZip] filename.txt filename.hfmzip
 ## winows
 *推荐使用powershell*
 ```
-
 > .\main.exe [HfmZip|unHfmZip] filename.txt filename.hfmzip 
 ```
 
+
+```
 // TO DO
 + 未编写UI界面
 + 未编写同名文件出现的情况
-
+```
